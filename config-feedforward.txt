@@ -1,16 +1,24 @@
-#--- parameters for the XOR-2 experiment ---#
+#--- parameters ---#
 
 [NEAT]
 fitness_criterion     = max
-fitness_threshold     = 500
+fitness_threshold     = 5000
 pop_size              = 100
 reset_on_extinction   = False
+no_fitness_termination = False
 
 [DefaultGenome]
 # node activation options
 activation_default      = tanh
 activation_mutate_rate  = 0.0
 activation_options      = tanh
+single_structural_mutation = False
+structural_mutation_surer = default
+bias_init_type = gaussian
+response_init_type = gaussian
+weight_init_type = gaussian
+enabled_rate_to_true_add = 0.0
+enabled_rate_to_false_add = 0.0
 
 # node aggregation options
 aggregation_default     = sum
@@ -79,3 +87,4 @@ species_elitism      = 2
 [DefaultReproduction]
 elitism            = 2
 survival_threshold = 0.2
+min_species_size = 1
