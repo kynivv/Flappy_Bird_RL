@@ -16,12 +16,4 @@ This project demonstrates the application of reinforcement learning (RL) to the 
 **Visualization:** Real-time visualization of the training process and agent performance.
 
 # Requirements: #
-**Python 3.x**
-
-**Pygame**
-
-**TensorFlow or PyTorch**
-
-**NumPy**
-
-**Matplotlib**
+**Listed in requirements.txt**
