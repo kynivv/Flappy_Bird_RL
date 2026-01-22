@@ -3,7 +3,8 @@ This project demonstrates the application of reinforcement learning (RL) to the 
 
 # Training Demonstrations #
 ![1FBGIF](https://github.com/user-attachments/assets/0894e71f-d181-44fc-9035-b4446161d14d)
-![2FBGIF](https://github.com/user-attachments/assets/e8b941c0-6233-4b05-99ee-280a203326d6)
+![2FBGIF](https://github.com/user-attachments/assets/2c4ebd5f-d8d9-4a8f-923d-c8682fb602c5)
+
 
 # Key Features: #
 **Game Implementation:** A replica of the Flappy Bird game built using Python and Pygame.
