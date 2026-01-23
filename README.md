@@ -1,10 +1,12 @@
 # Summary #
-This project demonstrates the application of reinforcement learning (RL) to the classic Flappy Bird game. The primary objectives include training an AI agent to play Flappy Bird using RL techniques and providing a playable version of the game for testing and demonstration purposes.
+This project is a fun demonstration of a reinforcement learning (RL) model applied to the classic Flappy Bird game. The repository includes the Flappy Bird game made from scratch using *PyGame* and training of the reinforcement model with 100 agents. The project was primarily made to demonstrate the capabilities of reinforcement learning models entertainingly.
 
 # Training Demonstrations #
 ![1FBGIF](https://github.com/user-attachments/assets/0894e71f-d181-44fc-9035-b4446161d14d)
 ![2FBGIF](https://github.com/user-attachments/assets/2c4ebd5f-d8d9-4a8f-923d-c8682fb602c5)
 
+# Installation #
+For installation, please download all the requirements from the requirements.txt and make sure you are using Python 3.12
 
 # Key Features: #
 **Game Implementation:** A replica of the Flappy Bird game built using Python and Pygame.
@@ -16,4 +18,5 @@ This project demonstrates the application of reinforcement learning (RL) to the 
 **Visualization:** Real-time visualization of the training process and agent performance.
 
 # Requirements: #
+**Python 3.12**
 **Listed in requirements.txt**
